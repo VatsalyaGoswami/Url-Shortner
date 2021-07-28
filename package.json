@@ -1,0 +1,27 @@
+{
+  "name": "url-short",
+  "version": "1.0.0",
+  "description": "this is a url-shortner API",
+  "main": "server.js",
+  "type": "module",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+    
+
+    
+     
+    
+    
+  },
+  
+  "author": "Vatsalya Goswami",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+  
+}
+  
+  
